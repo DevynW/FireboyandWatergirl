@@ -1,0 +1,6146 @@
+fileFormatVersion: 2
+guid: 5276b1a31e241d44594f0f0689cc0851
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585e6ea239590d2418ea79279bbb5768
+      internalID: -649495530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40abdd59db13f749b2fa6760044f814
+      internalID: 597489944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654644419a88bb498cf7d739af6610b
+      internalID: 630542989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3949f0d48ea35e46a910b0c49f8a511
+      internalID: -1222496057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf4742929a343489f9677605e22a05
+      internalID: 1426785343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cf03c02a269045aa701372cd58a26
+      internalID: 1343162824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274bc5564fb37e43ba4c8e6709f6f5b
+      internalID: 1466101368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edaed95a0d74d246a71cc929b5bb56d
+      internalID: -432377867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0fff6f14ae47469089a4af1619ca8
+      internalID: -232500459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb5b5347a3f6c47974c8cd321b332f
+      internalID: -1145132044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1904
+        width: 93
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00ff98a1b132c48a5cecfdcc1bbf90
+      internalID: -791540573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_11
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1937
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b5b02210397145871e4dc3bbc272b
+      internalID: -1673104505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_12
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1938
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb81f32dd5c5f4cb555dc9e1195fb0
+      internalID: -1586918475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_13
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1939
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb721c850a9bf446bcfc31098995602
+      internalID: -454699164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1733
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c127a8aaa2fc4ba9abd0bb7991e0e
+      internalID: 2108879925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1732
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3e69153078c94ebd6ca03d34c2ad3
+      internalID: 1676801415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1731
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42205f593c06b4aa69a5b2d6c4c283
+      internalID: -1996857678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1730
+        width: 118
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf8ec5fc18e4d45aca5ad70dc1d0b9
+      internalID: -1322212881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1729
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cae2e87236b3248880d00d4ab5644b
+      internalID: -695110042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_19
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1794
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543118398332be48b094d94f146b0e9
+      internalID: -414545850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_20
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1795
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba565a53b621c4e95b30b7c8ff6d42
+      internalID: -1318453208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_21
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1795
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e43ee891ae32ac468156f418f15c2a1
+      internalID: 175682681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1696
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ee2337f974c84cbd189103a0c5fb4
+      internalID: -350605119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1696
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52d1cb556227243ae86fe5a889eb7f
+      internalID: -1008585368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_24
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1695
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f52d04955d20de47918d54d5236536b
+      internalID: 325086717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_25
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1696
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16611e1e2e9e04742b4d15cd44f69c0b
+      internalID: 887613049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_26
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1656
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1a89e3a7632042ac5b640f77dc249
+      internalID: -257030812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1550
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb86a7e48f89c24dab90892dfc116de
+      internalID: 1110394861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1550
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c38a3568a4a84b89c5c574d962ef6
+      internalID: -761798604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1550
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01d0d87015b364f8adf3c6fd6b303e
+      internalID: 438485461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1549
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3f8af2308f9074dafa2ee7dde1203a
+      internalID: 1413336694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1550
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f942a25aa8d554ebab5a7d0eea3584
+      internalID: -1074054492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_32
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1550
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381059559da18845872bcea6bc70ee3
+      internalID: -996665374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_33
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1612
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3810a3ab5822d8c43880b1fdc0b983da
+      internalID: 1332405481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_34
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1612
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3ec6038f2e714f8de5c9aed280193
+      internalID: -426826285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_35
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1611
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d209c559aa4d46b1bae4a4671dfc9
+      internalID: 462309402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_36
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1611
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a77d2a251e4f74a9cf9a70fd62c6b9
+      internalID: 723709325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_37
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1520
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23803f401d8089e4db11e8ab1e9bc155
+      internalID: -1721597989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_38
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1519
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53756f94283b9b4e9d00f7896071625
+      internalID: 2090932477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_39
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1519
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e12efb56c4a444fae1a1efa206f211
+      internalID: -1768151389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_40
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1520
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb8360a5187cb419f7b35c93343121
+      internalID: 1691058196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_41
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1293e4b53350314e80096e76ad234e3
+      internalID: 867197847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_42
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb183581debf1c499dce7fa41ba5b4b
+      internalID: -663274110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_43
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb458f8f94fb89948958dcccd3642729
+      internalID: 1594163871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_44
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd1cde41ce2834dbea6e30d26c9316
+      internalID: -1311830648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_45
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1459
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2a942cb678b4240ad1083d3cd9e842
+      internalID: -1249495176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f1448aaf39a9499fb9f173e985001
+      internalID: -638024785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd6f3b9c22f684b8c98d395ae0efe6
+      internalID: -847239263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dddbf02f559c045b15a8c3eb8b72ae
+      internalID: -74941391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920929cc629c58439ae6d562e7b411b
+      internalID: 295603155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_50
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963d1d1e39af8d4bad6a0f4f991e113
+      internalID: -2021523950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_51
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1397
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290eda998a72b6f4f82075f5f5f82ad4
+      internalID: -719910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_52
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d894549b0df541ae5310db5e8140c
+      internalID: -1276167951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_53
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1677d8460a17fd42a41fac6ac556585
+      internalID: 799967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_54
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9a843f0006444394b02567c44cc16
+      internalID: 1412067680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_55
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1367
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb372931b3b5ef4c87ba19d7d10b5e8
+      internalID: -1214008011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_56
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177bcf598cba0d4e9906e3c1623550c
+      internalID: -292088238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_57
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31d94643fc0fc41a5a3165b31a6e5b
+      internalID: -384822186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_58
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab24fbde320fcb489daad95b4d1c5ff
+      internalID: 641461797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_59
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56009192252363a439181166033eb0e7
+      internalID: -297300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_60
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1293
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c292d03dce5c04899ed6b2b303f384
+      internalID: -226535962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65350200e3c1cab4cb8fd56eded8fa77
+      internalID: 1638229825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b98a5d359ea744a169d61943f7a47
+      internalID: -667394323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364723aab7fab2a4888096169c1946b9
+      internalID: -944713539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f37fcad7905d49817e4d0714f1232
+      internalID: 331600584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f40358c84f5846ba45383700a0a8e
+      internalID: -463944191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1231
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bed6c21ae0e90e4a902e433cbd4c10a
+      internalID: -1058469635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6270e28e97c849a0b3b4d619e001a
+      internalID: -506397860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_68
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570c80bc10519943b507b54ef9a5bb1
+      internalID: 747435825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_69
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b58b0e8e43851f44ba472ba516ae1e2
+      internalID: 1734207179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_70
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1201
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bda353cff69ba45a33d525f1fa37dd
+      internalID: 1702716586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1078
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cacc71aa8645145b0e167455a97f93
+      internalID: 1601747307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1077
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1bf5c7ae0e92945830953ce87db2cc
+      internalID: -1804963325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1077
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c20bfd89e7a9479af04b9eaf0d0c9
+      internalID: 1602178982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_74
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1077
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5cc77e048799f4a90422807fd48b33
+      internalID: 1219089829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_75
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1076
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af8a41f8ab6434b8277d15a630e6bc
+      internalID: -1545268497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_76
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1078
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6094db3a3a765f347951fedf9cc37395
+      internalID: 1799661391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_77
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb83b801f8e51954e9103731feb6e1f1
+      internalID: 910243769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_78
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1149
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c160ae0f794a24ba32c7427845041f
+      internalID: 1495534165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_79
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1149
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365cb0f7ab78684db2780742695bdbc
+      internalID: 1842100747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_80
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1149
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbbff49e2f6994782c120b7bd45404
+      internalID: 1918546836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_81
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1149
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864c2430963d0e48965e1bdebe72978
+      internalID: -1213532843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_82
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1048
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97067b40951e4514e88c5de828e4b27b
+      internalID: 189946072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_83
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105a8212f98f5f4f8e198854b29b809
+      internalID: -260765880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_84
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1049
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9f13028195754fa32d8eebb4bdac5
+      internalID: 541408977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_85
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1050
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e1d19f790bb342a332e18633d3183
+      internalID: 1491824419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_86
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 976
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0936a4685f56d5d40b67361c7e71da37
+      internalID: 1353521786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_87
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 976
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9881aa3afba4f1b418fb1b942d75d792
+      internalID: 401412533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_88
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 976
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d6930f64d3af4ab3a4dbabf382f78
+      internalID: 1676518877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_89
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 976
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318a7ccb41a31e42bd99fd0063677db
+      internalID: -1850164866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_90
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 976
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a9ec2788a9254cb0862790ad2dfbb
+      internalID: 1324726877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_91
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 913
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff88d15a0b08946b504f084d93a36d
+      internalID: 1430194797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 913
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5d49e0d240fb4f80c891a3a0e03e1
+      internalID: 1333738548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 913
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98a70d1aa40f141bce1c8a3bfff231
+      internalID: -2088013417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_94
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 912
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72709fa98ffb5f4da554b5282f4b35d
+      internalID: 1933186747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 922
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbe28f3b900d34fa1d00e08abe19e2
+      internalID: -1653786107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_96
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 892
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017407c5f48d7848a36d79159f0f100
+      internalID: -2132370915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_97
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 892
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938ec7d02a9b114b9214c3851aa4335
+      internalID: -1197867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_98
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 892
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48333a548a953124ab83dfb3413c8d35
+      internalID: -592056374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_99
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 893
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f250c385e7e5b42b2ce3735ab98a33
+      internalID: 2125081001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_100
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c03d2db16cee4aaae1ef395de679d
+      internalID: -611013060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_101
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1d1af961203144a918da0d943cd8e
+      internalID: -1397229258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_102
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 725
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1fa874e2a4bd8448239445da113246
+      internalID: -1907566042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 751
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14799a77006c76942b9ad317d68ac14b
+      internalID: -2115795854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_104
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 788
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad90b71cbf15744db63e5c6389a4a20
+      internalID: 1841528129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_105
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 758
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590e91b5cd626b40a6a20f29b623301
+      internalID: 1557840583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_106
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ab0b85e3c2bc4bbabd1f71f80f840
+      internalID: 1293770982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_107
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63763bae4bab928499f8be995c65be1e
+      internalID: 1741349658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_108
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 727
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45b05c18119cb4ca542ab3d63b79bc
+      internalID: -411327483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_109
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 819
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796879679fb76484dbd95387352035ea
+      internalID: 1182147320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_110
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 819
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea82975ab793074e9b2b1f2caab93ca
+      internalID: -176401099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_111
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 818
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902dc7c45c5c7024282a8eed97318854
+      internalID: -1147230669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_112
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 818
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ff20c3c0660f41bfb3ebc7367c72e
+      internalID: -603593907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_113
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 827
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a442cedc166833468a326b65c690626
+      internalID: 606222047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_114
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 822
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c46c807a1ad90468cbfce7c2087f41
+      internalID: 1145119721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_115
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 821
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881b9f889e065544ab94d99a2a47669
+      internalID: -1696961068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_116
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 820
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6985087113e2341b29f2cc9b3830de
+      internalID: -1727899277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_117
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 645
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399d92ee8b61f346a3d31107044c0d2
+      internalID: -1654213888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_118
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a81618825cf5645aa6fd17c394dc83
+      internalID: 8617729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_119
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f1713ef7808aa4287acd8e8586a972
+      internalID: -1629166344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_120
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446213ff22b459d478193a342efa81ff
+      internalID: 538550119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_121
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47afbeac456ed7b409cc4bd77f537578
+      internalID: 815064599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_122
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 653
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22502e72b7203f4ab217f5ae7cf2c63
+      internalID: 169612293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_123
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 716
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68f64c86758f748bf9dd6297727876
+      internalID: 1845137069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_124
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 606
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9303c570d081a604e87e68e62d4e449f
+      internalID: 1277621724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_125
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 605
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5392e48a133a4c8af1f69970f2607
+      internalID: 1464849346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 604
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1e56ecbc43c4241b20ca08eb72698e
+      internalID: 535189974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_127
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 612
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf91f77084da6147bfd5b3ab9dad880
+      internalID: -274895219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 610
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1131611a5f7f9843bcecc80061fd59f
+      internalID: 1490737962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_129
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 613
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b7fbc695718b48980e18687770d1f
+      internalID: 513367283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_130
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 609
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba78ca994fd75d4abfd816788724696
+      internalID: -550052747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_131
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 605
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477706133683614b80e815bbf50d729
+      internalID: -865332667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_132
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e475ed96195e4c9c43c2a5a69357a
+      internalID: 657385060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_133
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 608
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf5d97d26364948b9c9352c56d4abf
+      internalID: 658546452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_134
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 608
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8cbe569dd64a4bbc132d240020935
+      internalID: -1343134159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_135
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 535
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c428feeebce5488e7f3cee8af1c51
+      internalID: 1394774230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_136
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 532
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8aa073bc7aa741821dbf5d71755b2
+      internalID: -32846941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_137
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 535
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10a87ea23dd64448b3b84bf081ee21
+      internalID: -65667928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_138
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 535
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c437849189bc94daf5a43b1157c193
+      internalID: 697424315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_139
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 537
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad7043fe318914c965fac6e621eebf
+      internalID: 802460820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_140
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 538
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81539a28e9678469a444c1ea968d41
+      internalID: 714539901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_141
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 548
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211c96e71997ea4b925a4c40f4cc023
+      internalID: -687225632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_142
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 551
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81832f35f219fbf4e94fd3e72dddf349
+      internalID: 1295949027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 510
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f62f3c22609b041ae2ca498c85aaac
+      internalID: 1460925726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_144
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 514
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c37e1664112214d83e219eff7b0594
+      internalID: 1927221582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 514
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5206a39bebb8748919e2c6d737e8c0
+      internalID: -1845094268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_146
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 521
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e5fe69cc3e3264fbe6d38efb87bdda
+      internalID: 288773949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 526
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506b8789087dfb4cb2684178d487886
+      internalID: 1161474936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_148
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 516
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727d38a0395d45448385ceb3af849e7
+      internalID: 2024881572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_149
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 514
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1886379c9e865534fa44d5f6682b072d
+      internalID: -470792455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_150
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 524
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316fe6c1225e8f143b76940e895bc495
+      internalID: 1893169250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_151
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 521
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5712dfa7962c0640bfcd9143ad5f761
+      internalID: 116136042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_152
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 524
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5ab1468206d946a75b62d49fbc5eb
+      internalID: 392556770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_153
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 521
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355b97ae47049d74890356971a13e93d
+      internalID: 299539410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_154
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 516
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff4c63a357453489c0640242ffc222
+      internalID: -608147431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_155
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 519
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96f746fc1c6224a9554b34da809014
+      internalID: -983442454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_156
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 515
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469d8ad144897f45be6dfa4b3d980a6
+      internalID: -407596463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_157
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 516
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a3e5706a6e4364181b45b5ea3c07b7
+      internalID: -33869518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_158
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 472
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23569d0ce6bd345b17e398781ff339
+      internalID: 1850588155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_159
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 469
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49aa3fd6241b05438b19b9c7fb7ef38
+      internalID: -1691025751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_160
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 471
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e748cc0b6f9a459e2fa0af9df2151
+      internalID: 1217247590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_161
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 472
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2aa4e0b3b6a64b854094bd45a11fc
+      internalID: 1262826920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_162
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 473
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e4cc904eb2c241bd6127201f3c904
+      internalID: -620269396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_163
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 476
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71725134f4baff4db97ffc5b6999d24
+      internalID: -1962177718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_164
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 480
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b81eba8b7b39419a02642401c2ac8
+      internalID: 1500249167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_165
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 476
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f1852d57c78346a97e109cb588db5
+      internalID: -24096665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_166
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 478
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a174285c1079af445aceb4b18469a524
+      internalID: 765867426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_167
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 477
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f1de641d0f6c4e95cf2ad2fc0feed
+      internalID: -195581489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_168
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 480
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469baccb462225f41b28ba6ca01ede5c
+      internalID: 57426823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_169
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 480
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377c0a5ea69c784897c4ff7971bb629
+      internalID: -1319502895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_170
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 483
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7e76cf66f2f243a30a34b4935f3db
+      internalID: 954981943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_171
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 485
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c9a9f7e73a8942ad408c193a3f885
+      internalID: -1109651899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_172
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 486
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0f6c496bf83d40bc112a7e7367629
+      internalID: 2052427928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_173
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 484
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972596ffdf55d984ebe61744248134e4
+      internalID: -1012053684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_174
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 449
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d4a4f052b7354c876354f7418af39
+      internalID: 822778990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_175
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 453
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767a703146511349b6aa91d6620efa5
+      internalID: -610202920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_176
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 471
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ec2b2cffef62469c42911bf0dc013
+      internalID: 1040424383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_177
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66287d08c11c38a42ad757a47d7bcb41
+      internalID: 1299461855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_178
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce796c9338752f45a2376083cdaad4d
+      internalID: 566623652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_179
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 387
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f7f19082dd324c85c120f9ca99976
+      internalID: 350808724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_180
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 465
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89f9f37456bb245be5b1cd621a5b4d
+      internalID: 1289341463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_181
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 450
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e540ae1ffab86d4993402886454855e
+      internalID: 166181304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_182
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 452
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a3986bb56f4a4ba555e317993e92a
+      internalID: -1473913696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_183
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 456
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa99e86bc6d2f24398c007fac1b62fe
+      internalID: -445679165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_184
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 460
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81b1647c44534642b860777e239b465
+      internalID: -1522631846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_185
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 455
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895730215c4bdb40add926438c27714
+      internalID: -885618028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_186
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 452
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d3ed45cc84f98479bee6450f9bbb3a
+      internalID: -1160556333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_187
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 453
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee3bd225a51f144895bb68ed3c7a76b
+      internalID: -1900554016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_188
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 454
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b962294069b8943a2823344265ea55
+      internalID: 1058804594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_189
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 448
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5643851bff04d42b2506d113628c77
+      internalID: -1644264614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_190
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 397
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7d6f1437ae794883062d8ac8aa9d2
+      internalID: 739757785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_191
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 401
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361e526332125104085a018ee79d8852
+      internalID: 314650042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_192
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa9dc10356235a4da2af772c2d29ab2
+      internalID: -2024362055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_193
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 403
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e953c2c2f82c3a41bdc38a4459f5dba
+      internalID: 1268580628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_194
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 405
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc628d77936c6459fd2d2ee1401ec7
+      internalID: -963896078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_195
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 405
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26678b93d33dd74c92e1b315ac26ffe
+      internalID: -2100580775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_196
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f9e57fc6d56349bd12277da182732
+      internalID: -1379954598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_197
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 405
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db62fed71060047ab2fa271ab944ee
+      internalID: -918641527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c90d1b78b2cbc44b33626a2c962232
+      internalID: -558273109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_199
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 292
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f28348a757084dae695a62c63a88c
+      internalID: 1928890327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_200
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 297
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fbcba307080e74fa8d1a36bd6f2fa9
+      internalID: -1086153488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_201
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 321
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac8efe140394748833fc6a708633e1
+      internalID: -1717382380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 325
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ff1d25a14ed143b8b9cd7374ffdeb
+      internalID: 1473182877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_203
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 310
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f40a82ea7f5e2640bb674d407e49277
+      internalID: 1297847235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_204
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 309
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323896da40938e9438e42dc43f0307f1
+      internalID: -983565081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 313
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7656bfd5fe8934895132df0fe6a9f3
+      internalID: -425773758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_206
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 316
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541c027707164c42b83f078ca6a095f
+      internalID: -312383107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_207
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 320
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92013fd0c845cd348b4d80c856912b7d
+      internalID: 1637648316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_208
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 297
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41349eedc3cf24790b2f773f290297
+      internalID: 968459306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 304
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751bcbc9dd242c47beb4ce83234df68
+      internalID: 2124414353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_210
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 308
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc22b229257ad43af20af80afd89e1
+      internalID: -1085710093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_211
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 266
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff743ac45410049ab32dd09c102a3f
+      internalID: -421942938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_212
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 269
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00438c2efaf8a9b4aa38d1da8b238f9e
+      internalID: -2121801203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_213
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 272
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eac2c7fe2294746bb1446a11916b78
+      internalID: 1614940861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_214
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 275
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a803838d9d4768a43a66eace775ca64f
+      internalID: 1715837307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_215
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 278
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d3cc58e9018a3448089bdd15c33908
+      internalID: -2122146726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_216
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 281
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6705fca001b2004c8e7ed64425ee785
+      internalID: 2041741518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_217
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 283
+        width: 58
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11311ac7b8bcc53498683016a45523d6
+      internalID: -216993631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_218
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 286
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0329b98e5d6f44ab381940225b4a3
+      internalID: -2009641052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_219
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 288
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92231986bfab6a49b879e0d5a0e93ef
+      internalID: -1197464852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_220
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 291
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90149d0daf8763b498e2a9faf6e64405
+      internalID: 558776877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_221
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 293
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1b2e8bf4b2904592523cc92482a47
+      internalID: -1292305186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_222
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 295
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8fee7948065a4ca34b71fd7bca853
+      internalID: 1189719795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_223
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 284
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e616950612dad46ae31ded7281d98b
+      internalID: 1793110807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_224
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f77dd71de8ef44dbe9a31983f74c06
+      internalID: 1490291458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_225
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 181
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd5740e4e6c4b41b1c2cc8d1078dcf
+      internalID: 808108812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_226
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 184
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d00ca7cf7d78438c793d5e4def1c7
+      internalID: 1719111221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_227
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 148
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519a506b1c4c324fab8f4d9ff80a60b
+      internalID: -2087048596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_228
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 173
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45777a70ce9c99f4d90d93477a4c44c6
+      internalID: 2025516086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_229
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 176
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329348a42661094ab00064019b7e555
+      internalID: 823734745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_230
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 180
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d059d23d0bce340a52e48a8ab6f692
+      internalID: 676966053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_231
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 165
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb422bc26fda6489de135433710452
+      internalID: 880967851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_232
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 169
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7c7df098298344ba06a07b764054ce
+      internalID: -1018885765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_233
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 126
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac87f472f0c394ca03a2e08be0719e
+      internalID: 412867808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_234
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 129
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e512cabaf66a4eb740ff4198876b7
+      internalID: 1868249690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_235
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 133
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c06fe83d852b046ad36854254fd5d9
+      internalID: 1557007617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_236
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 136
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec0b91042e3bce4a9fadee04a55fcac
+      internalID: 704675655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_237
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 140
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e339cc77e13d84fada0df2bb8eb490
+      internalID: 1159985903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_238
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 143
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc97e1324703644aa72b71b0dc2bf0
+      internalID: -1403563275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_239
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 146
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15494ce252bea64196ddc9b72110825
+      internalID: -1178592532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_240
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 150
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab690464311854ab238cb07a73ad5b
+      internalID: 2055265073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_241
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 153
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2038c1d4328d1429d8f76ba263a8ef
+      internalID: -943134818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_242
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 157
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ad0ae895a35d48bfd115f9fb30223
+      internalID: -1205909571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_243
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 160
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c60ca768b57bcc419c386afad723659
+      internalID: 1340080900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_244
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 164
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259941818028b7c4ca8c7ef6acd56cb8
+      internalID: 1833105876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_245
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 167
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89961e3c6bc5df24e86225bacccb006a
+      internalID: -1806602988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b15908b65ac141b1c5f6a16cabea1
+      internalID: -51156216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_247
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470a671a86c42d4a99705af6c3671b3
+      internalID: 1930696023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_248
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30923feaf70e74dbf1b5f0bbe0f203
+      internalID: -139293747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_249
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 176
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30117442b3c49f45a08312cb663c36b
+      internalID: 497092934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_250
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 169
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ee4cfbe637534d9df71f50906f6ac
+      internalID: 1425918790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_251
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 168
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8337eadd4257ac941a8c0ed27321d1dc
+      internalID: -1363020482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_252
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8add85f7857ffc4faae5ee2d4040709
+      internalID: -1364369706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_253
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 139
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80a7bf1d3bf384796bce190ac3c2ea
+      internalID: -876750105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_254
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 145
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b375b02666fd84f8946ae3256ab1d7
+      internalID: 1790855935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_255
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 141
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5159022469c495479a4f44b3352bd2f
+      internalID: 1870210107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_256
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 145
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a0bfa3a6a51a4aafe4523584f3c4f
+      internalID: 1409888848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_257
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 68
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de1d8639c259f43815544b920357fe
+      internalID: 1572621541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_258
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 68
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fcd6091d66ec441b85cea8aa542737
+      internalID: -400981600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl
+        HTML 5_259
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 70
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739668f35f32b4a4788bc9a504abf3fd
+      internalID: 441073773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_0: -649495530
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_1: 597489944
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_10: -791540573
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_100: -611013060
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_101: -1397229258
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_102: -1907566042
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_103: -2115795854
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_104: 1841528129
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_105: 1557840583
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_106: 1293770982
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_107: 1741349658
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_108: -411327483
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_109: 1182147320
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_11: -1673104505
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_110: -176401099
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_111: -1147230669
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_112: -603593907
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_113: 606222047
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_114: 1145119721
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_115: -1696961068
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_116: -1727899277
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_117: -1654213888
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_118: 8617729
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_119: -1629166344
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_12: -1586918475
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_120: 538550119
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_121: 815064599
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_122: 169612293
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_123: 1845137069
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_124: 1277621724
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_125: 1464849346
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_126: 535189974
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_127: -274895219
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_128: 1490737962
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_129: 513367283
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_13: -454699164
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_130: -550052747
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_131: -865332667
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_132: 657385060
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_133: 658546452
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_134: -1343134159
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_135: 1394774230
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_136: -32846941
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_137: -65667928
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_138: 697424315
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_139: 802460820
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_14: 2108879925
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_140: 714539901
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_141: -687225632
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_142: 1295949027
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_143: 1460925726
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_144: 1927221582
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_145: -1845094268
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_146: 288773949
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_147: 1161474936
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_148: 2024881572
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_149: -470792455
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_15: 1676801415
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_150: 1893169250
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_151: 116136042
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_152: 392556770
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_153: 299539410
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_154: -608147431
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_155: -983442454
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_156: -407596463
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_157: -33869518
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_158: 1850588155
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_159: -1691025751
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_16: -1996857678
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_160: 1217247590
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_161: 1262826920
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_162: -620269396
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_163: -1962177718
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_164: 1500249167
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_165: -24096665
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_166: 765867426
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_167: -195581489
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_168: 57426823
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_169: -1319502895
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_17: -1322212881
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_170: 954981943
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_171: -1109651899
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_172: 2052427928
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_173: -1012053684
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_174: 822778990
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_175: -610202920
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_176: 1040424383
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_177: 1299461855
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_178: 566623652
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_179: 350808724
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_18: -695110042
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_180: 1289341463
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_181: 166181304
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_182: -1473913696
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_183: -445679165
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_184: -1522631846
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_185: -885618028
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_186: -1160556333
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_187: -1900554016
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_188: 1058804594
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_189: -1644264614
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_19: -414545850
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_190: 739757785
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_191: 314650042
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_192: -2024362055
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_193: 1268580628
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_194: -963896078
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_195: -2100580775
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_196: -1379954598
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_197: -918641527
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_198: -558273109
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_199: 1928890327
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_2: 630542989
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_20: -1318453208
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_200: -1086153488
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_201: -1717382380
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_202: 1473182877
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_203: 1297847235
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_204: -983565081
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_205: -425773758
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_206: -312383107
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_207: 1637648316
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_208: 968459306
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_209: 2124414353
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_21: 175682681
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_210: -1085710093
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_211: -421942938
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_212: -2121801203
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_213: 1614940861
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_214: 1715837307
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_215: -2122146726
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_216: 2041741518
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_217: -216993631
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_218: -2009641052
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_219: -1197464852
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_22: -350605119
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_220: 558776877
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_221: -1292305186
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_222: 1189719795
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_223: 1793110807
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_224: 1490291458
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_225: 808108812
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_226: 1719111221
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_227: -2087048596
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_228: 2025516086
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_229: 823734745
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_23: -1008585368
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_230: 676966053
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_231: 880967851
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_232: -1018885765
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_233: 412867808
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_234: 1868249690
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_235: 1557007617
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_236: 704675655
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_237: 1159985903
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_238: -1403563275
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_239: -1178592532
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_24: 325086717
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_240: 2055265073
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_241: -943134818
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_242: -1205909571
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_243: 1340080900
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_244: 1833105876
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_245: -1806602988
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_246: -51156216
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_247: 1930696023
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_248: -139293747
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_249: 497092934
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_25: 887613049
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_250: 1425918790
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_251: -1363020482
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_252: -1364369706
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_253: -876750105
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_254: 1790855935
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_255: 1870210107
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_256: 1409888848
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_257: 1572621541
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_258: -400981600
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_259: 441073773
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_26: -257030812
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_27: 1110394861
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_28: -761798604
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_29: 438485461
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_3: -1222496057
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_30: 1413336694
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_31: -1074054492
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_32: -996665374
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_33: 1332405481
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_34: -426826285
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_35: 462309402
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_36: 723709325
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_37: -1721597989
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_38: 2090932477
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_39: -1768151389
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_4: 1426785343
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_40: 1691058196
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_41: 867197847
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_42: -663274110
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_43: 1594163871
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_44: -1311830648
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_45: -1249495176
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_46: -638024785
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_47: -847239263
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_48: -74941391
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_49: 295603155
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_5: 1343162824
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_50: -2021523950
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_51: -719910514
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_52: -1276167951
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_53: 799967965
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_54: 1412067680
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_55: -1214008011
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_56: -292088238
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_57: -384822186
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_58: 641461797
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_59: -297300156
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_6: 1466101368
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_60: -226535962
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_61: 1638229825
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_62: -667394323
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_63: -944713539
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_64: 331600584
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_65: -463944191
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_66: -1058469635
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_67: -506397860
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_68: 747435825
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_69: 1734207179
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_7: -432377867
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_70: 1702716586
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_71: 1601747307
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_72: -1804963325
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_73: 1602178982
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_74: 1219089829
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_75: -1545268497
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_76: 1799661391
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_77: 910243769
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_78: 1495534165
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_79: 1842100747
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_8: -232500459
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_80: 1918546836
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_81: -1213532843
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_82: 189946072
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_83: -260765880
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_84: 541408977
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_85: 1491824419
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_86: 1353521786
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_87: 401412533
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_88: 1676518877
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_89: -1850164866
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_9: -1145132044
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_90: 1324726877
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_91: 1430194797
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_92: 1333738548
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_93: -2088013417
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_94: 1933186747
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_95: -1653786107
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_96: -2132370915
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_97: -1197867717
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_98: -592056374
+      Browser Games - Fireboy and Watergirl The Forest Temple - Fireboy & Watergirl HTML 5_99: 2125081001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

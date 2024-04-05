@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - diamond
+  - player
+  - ground
+  - fire
+  - water
+  - acid
   layers:
   - Default
   - TransparentFX

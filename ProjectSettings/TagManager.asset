@@ -10,6 +10,8 @@ TagManager:
   - fire
   - water
   - acid
+  - fireDiamond
+  - waterDiamond
   layers:
   - Default
   - TransparentFX

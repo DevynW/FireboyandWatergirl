@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2542569150469317222}
   m_Layer: 0
   m_Name: fireDiamond
-  m_TagString: diamond
+  m_TagString: fireDiamond
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

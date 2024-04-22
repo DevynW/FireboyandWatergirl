@@ -10,6 +10,7 @@ public class Mover : MonoBehaviour
     [SerializeField] GameObject poof;
     [SerializeField] AudioSource audi;
     bool grounded = true;
+    Vector2 direction = Vector2.right;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +26,7 @@ public class Mover : MonoBehaviour
             if (Input.GetKey(KeyCode.LeftArrow) /*&& grounded == true*/)
             {
                 player.AddForce(forceX * Vector2.left);
+                direction = Vector2.left;
                 //anni.SetBool("Walking", true);
                 //sr.flipX = true;
             }
@@ -32,6 +34,7 @@ public class Mover : MonoBehaviour
             {
                 Debug.Log("going right");
                 player.AddForce(forceX * Vector2.right);
+                direction = Vector2.right;
                 // anni.SetBool("Walking", true);
                 Debug.Log("not going the other way");
                 //sr.flipX = false;
@@ -44,6 +47,7 @@ public class Mover : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.UpArrow) /*&& grounded == true*/)
             {
                 player.AddForce(forceY * Vector2.up);
+                player.AddForce(forceX * direction);
                 audi.Play();
             }
         }
@@ -52,6 +56,7 @@ public class Mover : MonoBehaviour
             if (Input.GetKey(KeyCode.A) /*&& grounded == true*/)
             {
                 player.AddForce(forceX * Vector2.left);
+                direction = Vector2.left;
                 //anni.SetBool("Walking", true);
                 //sr.flipX = true;
             }
@@ -59,6 +64,7 @@ public class Mover : MonoBehaviour
             {
                 Debug.Log("going right");
                 player.AddForce(forceX * Vector2.right);
+                direction = Vector2.right;
                 // anni.SetBool("Walking", true);
                 Debug.Log("not going the other way");
                 //sr.flipX = false;
@@ -71,6 +77,7 @@ public class Mover : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.W) /*&& grounded == true*/)
             {
                 player.AddForce(forceY * Vector2.up);
+                player.AddForce(forceX * direction);
                 audi.Play();
             }
         }
@@ -85,6 +92,7 @@ public class Mover : MonoBehaviour
         }
         else if(gameObject.CompareTag("fire") && other.gameObject.CompareTag("water"))
         {
+            Instantiate(poof);
             Destroy(gameObject);
         }
     }

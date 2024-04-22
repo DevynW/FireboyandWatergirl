@@ -1,7 +1,22 @@
 Fireboy and Watergirl Credits
 -----------------------------
 
-****name**** - ***whatAmI***
+Moora Light - Pretty Font
+-----------
+Link: https://www.dafont.com/moora-light.font
+Author: rmdndsign@gmail.com
+
+Fireboy & Watergirl (HTML 5) - Character and diamond sprites
 ------------
-Link: *******
-Author: ********
+Link: https://www.spriters-resource.com/browser_games/fireboyandwatergirltheforesttemple/sheet/217382/
+Author: Ya Block
+
+Goal - Doors
+------------
+Link: https://www.spriters-resource.com/fullview/217378/
+Author: FridayFunkGaming291
+
+4-Color Dungeon Bricks (16x16) - Dungeon
+------------
+Link: https://opengameart.org/content/4-color-dungeon-bricks-16x16
+Author: MoikMellah

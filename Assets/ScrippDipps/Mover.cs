@@ -9,6 +9,7 @@ public class Mover : MonoBehaviour
     [SerializeField] float forceY = 1f;
     [SerializeField] GameObject poof;
     [SerializeField] AudioSource audi;
+    [SerializeField] GameObject leaveDungeon;
     bool grounded = true;
     Vector2 direction = Vector2.right;
     // Start is called before the first frame update
@@ -85,6 +86,7 @@ public class Mover : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("Mover" + collision.name);
         if (gameObject.CompareTag("water") && collision.gameObject.CompareTag("fire"))
         {
             Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
@@ -103,11 +105,25 @@ public class Mover : MonoBehaviour
             Destroy(gameObject);
             gameManager.playersingame -= 1;
         }
+        if (collision.gameObject.CompareTag("waterDiamond") && gameObject.CompareTag("water"))
+        {
+            Destroy(collision.gameObject);
+            gameManager.diamondCount += 1;
+        }
         if (collision.gameObject.CompareTag("fireDiamond") && gameObject.CompareTag("fire"))
         {
             Destroy(collision.gameObject);
             gameManager.diamondCount += 1;
         }
+        if (collision.gameObject.CompareTag("diamond"))
+        {
+            Destroy(collision.gameObject);
+            gameManager.diamondCount += 1;
+        }
+        
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
         if (collision.gameObject.CompareTag("ground") == true)
         {
             grounded = true;
@@ -115,6 +131,19 @@ public class Mover : MonoBehaviour
         else
         {
             grounded = false;
+        }
+        if (collision.gameObject.CompareTag("girlDone") && gameObject.CompareTag("water"))
+        {
+            gameManager.gameDone += 1;
+        }
+        if (collision.gameObject.CompareTag("boyDone") && gameObject.CompareTag("fire"))
+        {
+            gameManager.gameDone += 1;
+        }
+        if(gameManager.gameDone == 2) //ask dr Volcy if there's another collision that I could use for this
+        {
+            Instantiate(leaveDungeon, collision.gameObject.transform.position, gameObject.transform.rotation);
+            Destroy(gameObject);
         }
     }
 }

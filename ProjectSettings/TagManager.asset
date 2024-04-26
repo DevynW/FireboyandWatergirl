@@ -12,6 +12,8 @@ TagManager:
   - acid
   - fireDiamond
   - waterDiamond
+  - girlDone
+  - boyDone
   layers:
   - Default
   - TransparentFX

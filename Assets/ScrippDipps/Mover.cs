@@ -23,14 +23,14 @@ public class Mover : MonoBehaviour
     {
         if (gameObject.CompareTag("fire"))
         {
-            if (Input.GetKey(KeyCode.LeftArrow) /*&& grounded == true*/)
+            if (Input.GetKey(KeyCode.LeftArrow) && grounded == true)
             {
                 player.AddForce(forceX * Vector2.left);
                 direction = Vector2.left;
                 //anni.SetBool("Walking", true);
                 //sr.flipX = true;
             }
-            else if (Input.GetKey(KeyCode.RightArrow) /*&& grounded == true*/)
+            else if (Input.GetKey(KeyCode.RightArrow) && grounded == true)
             {
                 Debug.Log("going right");
                 player.AddForce(forceX * Vector2.right);
@@ -44,7 +44,7 @@ public class Mover : MonoBehaviour
                 // anni.SetBool("Walking", false);
             }
 
-            if (Input.GetKeyDown(KeyCode.UpArrow) /*&& grounded == true*/)
+            if (Input.GetKeyDown(KeyCode.UpArrow) && grounded == true)
             {
                 player.AddForce(forceY * Vector2.up);
                 player.AddForce(forceX * direction);
@@ -53,14 +53,14 @@ public class Mover : MonoBehaviour
         }
         else if (gameObject.CompareTag("water"))
         {
-            if (Input.GetKey(KeyCode.A) /*&& grounded == true*/)
+            if (Input.GetKey(KeyCode.A) && grounded == true)
             {
                 player.AddForce(forceX * Vector2.left);
                 direction = Vector2.left;
                 //anni.SetBool("Walking", true);
                 //sr.flipX = true;
             }
-            else if (Input.GetKey(KeyCode.D) /*&& grounded == true*/)
+            else if (Input.GetKey(KeyCode.D) && grounded == true)
             {
                 Debug.Log("going right");
                 player.AddForce(forceX * Vector2.right);
@@ -74,7 +74,7 @@ public class Mover : MonoBehaviour
                 // anni.SetBool("Walking", false);
             }
 
-            if (Input.GetKeyDown(KeyCode.W) /*&& grounded == true*/)
+            if (Input.GetKeyDown(KeyCode.W) && grounded == true)
             {
                 player.AddForce(forceY * Vector2.up);
                 player.AddForce(forceX * direction);
@@ -87,21 +87,34 @@ public class Mover : MonoBehaviour
     {
         if (gameObject.CompareTag("water") && collision.gameObject.CompareTag("fire"))
         {
-            Instantiate(poof);
+            Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
             Destroy(gameObject);
             gameManager.playersingame -= 1;
         }
         else if(gameObject.CompareTag("fire") && collision.gameObject.CompareTag("water"))
         {
-            Instantiate(poof);
+            Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
             Destroy(gameObject);
             gameManager.playersingame -= 1;
         }
         else if(gameObject.CompareTag("acid"))
         {
-            Instantiate(poof);
+            Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
             Destroy(gameObject);
             gameManager.playersingame -= 1;
+        }
+        if (collision.gameObject.CompareTag("fireDiamond") && gameObject.CompareTag("fire"))
+        {
+            Destroy(collision.gameObject);
+            gameManager.diamondCount += 1;
+        }
+        if (collision.gameObject.CompareTag("ground") == true)
+        {
+            grounded = true;
+        }
+        else
+        {
+            grounded = false;
         }
     }
 }

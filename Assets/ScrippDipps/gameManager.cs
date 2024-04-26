@@ -5,7 +5,8 @@ using UnityEngine;
 public class gameManager : MonoBehaviour
 {
     public static int playersingame = 2;
-    GameObject gameOver;
+    [SerializeField] GameObject gameOver;
+    public static int diamondCount = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,7 @@ public class gameManager : MonoBehaviour
         {
             gameOver.SetActive(true);
         }
+
 
 
     }

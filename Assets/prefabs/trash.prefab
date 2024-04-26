@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7011871396897444137}
   - component: {fileID: 300119087725881024}
   m_Layer: 0
-  m_Name: waterDiamond
+  m_Name: trash
   m_TagString: waterDiamond
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

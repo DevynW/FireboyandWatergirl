@@ -89,11 +89,19 @@ public class Mover : MonoBehaviour
         {
             Instantiate(poof);
             Destroy(gameObject);
+            gameManager.playersingame -= 1;
         }
         else if(gameObject.CompareTag("fire") && collision.gameObject.CompareTag("water"))
         {
             Instantiate(poof);
             Destroy(gameObject);
+            gameManager.playersingame -= 1;
+        }
+        else if(gameObject.CompareTag("acid"))
+        {
+            Instantiate(poof);
+            Destroy(gameObject);
+            gameManager.playersingame -= 1;
         }
     }
 }

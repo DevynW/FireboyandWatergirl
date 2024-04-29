@@ -115,6 +115,8 @@ public class Mover : MonoBehaviour
         if (gameManager.gameDone == 2)
         {
             anni.SetBool("finished", true);
+            Destroy(head);
+            Destroy(body);
         }
     }
 

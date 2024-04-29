@@ -43,7 +43,7 @@ public class gameManager : MonoBehaviour
         {
             
             gameOver.SetActive(false);
-            Debug.Log("Game not over");
+            //Debug.Log("Game not over");
         }
         if (playersingame < 2)
         {

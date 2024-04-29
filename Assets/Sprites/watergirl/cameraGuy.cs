@@ -8,16 +8,19 @@ public class cameraGuy : MonoBehaviour
 {
     [SerializeField] GameObject WaG;
     [SerializeField] GameObject FiB;
+    [SerializeField] float zoomFac = 1f;
+    Camera cam;
     // Start is called before the first frame update
     void Start()
     {
-        
+        cam = GetComponent<Camera>();
+        Debug.Log (cam.orthographicSize.ToString ());
     }
 
     // Update is called once per frame
     void Update()
     {
         gameObject.transform.position = new Vector3 ((WaG.transform.position.x + FiB.transform.position.x)/2, (WaG.transform.position.y + FiB.transform.position.y) / 2, gameObject.transform.position.z);
-       // Camera.
+        cam.orthographicSize = zoomFac * Vector3.Distance(WaG.transform.position, FiB.transform.position);
     }
 }

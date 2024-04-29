@@ -31,6 +31,8 @@ public class gameManager : MonoBehaviour
     {
         timeStart = Time.time;
         playersingame = 2;
+        diamondCount = 0;
+        gameDone = 0;
             anni = door1Open.GetComponent<Animator>();
             anim = door2Open.GetComponent<Animator>();
 
@@ -47,22 +49,22 @@ public class gameManager : MonoBehaviour
         }
         if (playersingame < 2)
         {
-            Invoke(nameof(waitUp), 1.5f);
-            gameOver.SetActive(true);
+            Invoke(nameof(waitUp), 3f);
+            
         }
         if (gameDone == 2)
         {
             anni.SetBool("gameWon", true);
             anim.SetBool("gameWon", true);
-            Invoke(nameof(waitUp), 1.5f);
-            endOfGame.SetActive(true);
-            if (timePlayed <= 30) 
+            Invoke(nameof(waitUp2), 3f);
+            
+            if (currentTime < 30) 
             {
                 timewon.SetActive(true);
             }
-            else
+            else if (currentTime >= 30)
             {
-                timelost.SetActive(false);
+                timelost.SetActive(true);
             }
             if(diamondCount == 9)
             {
@@ -75,7 +77,7 @@ public class gameManager : MonoBehaviour
             
         }
 
-        currentTime = (int)Time.time;// - (int)timeStart;
+        currentTime = (int)Time.time - (int)timeStart;
         timer.text = currentTime.ToString();
         //Debug.Log(currentTime.ToString());
         //write time to tmp 
@@ -83,6 +85,11 @@ public class gameManager : MonoBehaviour
     }
     void waitUp()
     {
-        Debug.Log("waiting...");
+        gameOver.SetActive(true);
+    }
+
+    void waitUp2()
+    {
+        endOfGame.SetActive(true);
     }
 }

@@ -22,5 +22,13 @@ public class cameraGuy : MonoBehaviour
     {
         gameObject.transform.position = new Vector3 ((WaG.transform.position.x + FiB.transform.position.x)/2, (WaG.transform.position.y + FiB.transform.position.y) / 2, gameObject.transform.position.z);
         cam.orthographicSize = zoomFac * Vector3.Distance(WaG.transform.position, FiB.transform.position);
+        if (cam.orthographicSize < 5)
+        {
+            cam.orthographicSize = 5;
+        }
+        if (cam.orthographicSize > 18)
+        {
+            cam.orthographicSize = 18;
+        }
     }
 }

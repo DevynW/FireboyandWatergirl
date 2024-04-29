@@ -127,7 +127,7 @@ public class Mover : MonoBehaviour
         {
             collision.gameObject.GetComponent<AudioSource>().Play();
             Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
-            Invoke(nameof(waitUp), 1.5f);
+            Invoke(nameof(waitUp), 3f);
             Destroy(gameObject);
             gameManager.playersingame -= 1;
         }
@@ -135,11 +135,11 @@ public class Mover : MonoBehaviour
         {
             collision.gameObject.GetComponent<AudioSource>().Play();
             Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);
-            Invoke(nameof(waitUp), 1.5f);
+            Invoke(nameof(waitUp), 3f);
             Destroy(gameObject);
             gameManager.playersingame -= 1;
         }
-        else if(gameObject.CompareTag("acid"))
+        else if(collision.gameObject.CompareTag("acid"))
         {
             collision.gameObject.GetComponent<AudioSource>().Play();
             Instantiate(poof, gameObject.transform.position, gameObject.transform.rotation);

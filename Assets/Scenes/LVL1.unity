@@ -64228,7 +64228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceX: 2
-  forceY: 500
+  forceY: 350
   poof: {fileID: 1705931356946114183, guid: 8d630a66e69ed154eb94f8d7fc23b36d, type: 3}
   head: {fileID: 990072211}
   body: {fileID: 541074653}

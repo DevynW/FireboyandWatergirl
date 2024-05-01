@@ -43,7 +43,7 @@ public class gameManager : MonoBehaviour
     {
         if (playersingame == 2)
         {
-            
+            currentTime = (int)Time.time - (int)timeStart;
             gameOver.SetActive(false);
             //Debug.Log("Game not over");
         }
@@ -62,7 +62,7 @@ public class gameManager : MonoBehaviour
             {
                 timewon.SetActive(true);
             }
-            else if (currentTime >= 30)
+            else if (currentTime >= 30) //changed this : added a second condition
             {
                 timelost.SetActive(true);
             }
@@ -77,7 +77,6 @@ public class gameManager : MonoBehaviour
             
         }
 
-        currentTime = (int)Time.time - (int)timeStart;
         timer.text = currentTime.ToString();
         //Debug.Log(currentTime.ToString());
         //write time to tmp 
